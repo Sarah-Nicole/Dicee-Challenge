@@ -15,10 +15,10 @@ body {
 }
 
 h1 {
-  margin: 2rem;
+  margin: 1.5rem;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 7rem;
   color: #4ECCA3;
 }
 
@@ -26,6 +26,12 @@ p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
+  margin: 1rem;
+}
+
+.refresh{
+  font-size: 1.5rem;
+  color: #fff; 
 }
 
 img {
